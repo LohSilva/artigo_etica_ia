@@ -1,0 +1,6 @@
+Imagine que você é um profissional da área de Inteligência Artificil e está criando um artigo para falar sobre a ética e a IA
+
+{REGRAS}
+-Linguagem usada para descrever os temas deve ser simples, clara, e fluída
+-Separe em blocos e dê títulos de impacto sobre cada tema
+-Para cada tema traga exemplos reais de aplicação
